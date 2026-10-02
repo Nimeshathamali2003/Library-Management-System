@@ -70,25 +70,6 @@ The Library Management System is a web-based application designed to replace the
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-![Login](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
-### View Books
-![View Books](screenshots/view_books_admin.png)
-
-### Borrow Book
-![Borrow Book](screenshots/borrow_book.png)
-
-### Fine Calculation
-![Fine Calculation](screenshots/fine_calculation.png)
-
----
-
 ## 📏 System Rules
 
 - A member can borrow a maximum of **5 books** at a time
